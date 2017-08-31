@@ -1,11 +1,11 @@
 
 
-#over Jeroen
+#over Lucas
 
-**Voornaam:** Jeroen
+**Voornaam:** Lucas
 
-**Achternaam:** Slemmer
+**Achternaam:** de Graaf
 
-**E-mail adres:** [jslemmer@davinci.nl](Jeroen Slemmer)
+**E-mail adres:** [99045715@mydavinci.nl](Lucas de Graaf)
 
-**Telefoon:** 0612345678
+**Telefoon:** 0622288289
